@@ -13,7 +13,7 @@ export default function HomeScreen() {
     <Link href={"/properties/1"}>Property</Link>
 
      
-      <Text className="text-xl font-bold text-blue-500">
+      <Text className=" font-bold text-blue-500 font-rubik">
         Welcome to Nativewind!
       </Text>
     
